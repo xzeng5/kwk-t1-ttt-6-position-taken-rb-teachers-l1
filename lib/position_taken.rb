@@ -3,4 +3,5 @@
 def position_take?(board, index)
   if board[index] == "   "
     "false"
+  end
 end
